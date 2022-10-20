@@ -5983,11 +5983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\TED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\TestProject1\\obj\\",
+      "outputPath": "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

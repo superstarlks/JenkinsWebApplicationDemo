@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj": {}
+    "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj": {
+    "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+        "projectUniqueName": "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
         "projectName": "JenkinsWebApplicationDemo",
-        "projectPath": "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+        "projectPath": "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
         "packagesPath": "C:\\Users\\TED\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TED\\Downloads\\JenkinsWebApplication\\JenkinsWebApplication\\JenkinsWebApplicationDemo\\obj\\",
+        "outputPath": "C:\\Working\\jenkins\\workspace\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
